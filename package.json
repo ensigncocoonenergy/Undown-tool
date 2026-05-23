@@ -1,0 +1,38 @@
+{
+  "name": "undown-tool",
+  "version": "2.0.0",
+  "description": "A reliable and advanced utility for Respondus LockDown Browser, designed for educational and research purposes.",
+  "main": "src/unlock_tool.ps1",
+  "scripts": {
+    "start": "powershell -ExecutionPolicy Bypass -File src/unlock_tool.ps1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ensigncocoonenergy/Undown-tool.git"
+  },
+  "keywords": [
+    "lockdown",
+    "lockdown-browser",
+    "respondus",
+    "bypass",
+    "security",
+    "proctoring",
+    "privacy",
+    "windows",
+    "educational",
+    "research",
+    "lockdown-browser-bypass",
+    "respondus-lockdown-browser",
+    "exam",
+    "online-exam",
+    "proctor",
+    "tool",
+    "utility"
+  ],
+  "author": "ensigncocoonenergy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ensigncocoonenergy/Undown-tool/issues"
+  },
+  "homepage": "https://github.com/ensigncocoonenergy/Undown-tool#readme"
+}
